@@ -3823,6 +3823,20 @@
     "title": "unpublished",
     "note": "As referenced in the Stuttgart ECP database/website"
   },
+  "porezag1999a":
+  {
+    "_entry_type": "article",
+    "authors": [
+      "Porezag, Dirk",
+      "Pederson, Mark R."
+    ],
+    "title": "Optimization of Gaussian basis sets for density-functional calculations",
+    "journal": "Phys. Rev. A",
+    "volume": "60",
+    "page": "2840-2847",
+    "year": "1999",
+    "doi": "10.1103/PhysRevA.60.2840"
+  },
   "pradhan1994a": {
     "_entry_type": "article",
     "authors": [
@@ -3853,15 +3867,21 @@
     "year": "2011",
     "doi": "10.1007/s00214-010-0764-0"
   },
-  "pritchardXXXXa": {
-    "_entry_type": "misc",
+  "pritchard2019a": {
+    "_entry_type": "article",
     "authors": [
       "Pritchard, Benjamin P.",
       "Altarawy, Doaa",
+      "Didier, Brett",
+      "Gibsom, Tara D.",
       "Windus, Theresa L."
     ],
     "title": "A New Basis Set Exchange: An Open, Up-to-date Resource for the Molecular Sciences Community",
-    "note": "Manuscript in preparation"
+    "journal": "J. Chem. Inf. Model.",
+    "volume": "XXX",
+    "page": "XXX",
+    "year": "2019",
+    "doi": "10.1021/acs.jcim.9b00725"
   },
   "provasi2001a": {
     "_entry_type": "article",
@@ -4534,6 +4554,21 @@
     "year": "2001",
     "doi": "10.1039/B105076C"
   },
+  "tsuchiya2001a": {
+    "_entry_type": "article",
+    "authors": [
+      "Tsuchiya, Takashi",
+      "Abe, Minori",
+      "Nakajima, Takahito",
+      "Hirao, Kimihiko"
+    ],
+    "title": "Accurate relativistic Gaussian basis sets for H through Lr determined by atomic self-consistent field calculations with the third-order Douglas Kroll approximation",
+    "journal": "J. Chem. Phys.",
+    "volume": "115",
+    "page": "4463-4472",
+    "year": "2001",
+    "doi": "10.1063/1.1390515"
+  },
   "vidal2012a": {
     "_entry_type": "article",
     "authors": [
@@ -4947,5 +4982,28 @@
     "page": "295-305",
     "year": "2011",
     "doi": "10.1007/s00214-010-0846-z"
+  },
+  "zorilla2018a": {
+    "_entry_type": "article",
+    "authors": [
+      "García, Victor",
+      "Zorilla, David",
+      "Sánchez-Márquez, Jesús",
+      "Fernández, Manuel"
+    ],
+    "title": "Simplified box orbitals for molecules containing atoms beyond Ar",
+    "journal": "Mol. Phys.",
+    "volume": "116",
+    "page": "2310-2320",
+    "year": "2018",
+    "doi": "10.1080/00268976.2018.1481543"
+  },
+  "zorilla2019a": {
+    "_entry_type": "misc",
+    "authors": [
+      "Zorilla, David"
+    ],
+    "title": "untitled",
+    "note": "Manuscript Accepted for Publication"
   }
 }
