@@ -8,7 +8,7 @@ from .common import get_library_citation
 
 
 def _ref_endnote(key, ref):
-    '''Convert a single reference to bibtex format
+    '''Convert a single reference to endnote format
     '''
     s = ''
 
