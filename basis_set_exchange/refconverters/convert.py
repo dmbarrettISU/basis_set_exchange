@@ -22,7 +22,7 @@ _converter_map = {
         'comment': '%',
         'function': write_bib
     },
-    'RIS': {
+    'ris': {
         'display': 'RIS',
         'extension': '.RIS',
         'comment': None,
