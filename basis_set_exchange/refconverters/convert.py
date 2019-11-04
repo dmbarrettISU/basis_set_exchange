@@ -4,7 +4,7 @@ Converts basis set data to a specified output format
 
 from .. import sort
 from .bib import write_bib
-from .RIS import write_ris
+from .ris import write_ris
 from .endnote import write_endnote
 from .txt import write_txt
 from .bsejson import write_json
